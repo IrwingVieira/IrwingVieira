@@ -25,7 +25,8 @@ Tenho curiosidade sobre desenvolvimento web e desenvolvimento de jogos.
 #### 🔗 Redes Sociais
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iruixpereira/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gmdo0420@gmail.com")
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:irwingfelipe@agmail.com")
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/irwing-vieira-111b75371)
 
 #### 🌐 Desenvolvimento Web
 
