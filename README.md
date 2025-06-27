@@ -33,7 +33,7 @@ Tenho curiosidade sobre desenvolvimento web e desenvolvimento de jogos.
 
 #### 🖥️ Programação de Baixo Nível
 
-[![Baixo Nível](https://skillicons.dev/icons?i=c,java,twitter,instagram,linkedin,gmail&perline=15)](#)
+[![Baixo Nível](https://skillicons.dev/icons?i=c,java&perline=15)](#)
 
 #### ⚙️ Machine Learning e IA
 
