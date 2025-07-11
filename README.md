@@ -1,6 +1,6 @@
 ### Salve! Eu sou Irwing Felipe, mas por aqui pode me chamar de Iruix!
 
-Curso Ciência da Computação e sou membro da LAWD (Liga Acadêmica de Desenvolvimento Web). Atualmemte estou estudando Banco de dados PostgreSQL e mongoDB. Também estou trabalhando em um projeto de engenharia de software no âmbito de saúde. Ambos os estudos estão vinculados à Universidade Federal de Sergipe, a qual estou cursando o 5º período.
+Curso Ciência da Computação e sou membro da LAWD (Liga Acadêmica de Desenvolvimento Web). Atualmente estou estudando Banco de dados PostgreSQL e mongoDB. Também estou trabalhando em um projeto de engenharia de software no âmbito de saúde. Ambos os estudos estão vinculados à Universidade Federal de Sergipe, a qual estou cursando o 5º período.
 
 Tenho curiosidade sobre desenvolvimento web e desenvolvimento de jogos.
 
