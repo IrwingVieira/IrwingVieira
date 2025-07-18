@@ -11,7 +11,7 @@ Tenho curiosidade sobre desenvolvimento web e desenvolvimento de jogos.
   <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekki&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true" width="380" align="left"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwingvieira&exclude_repo=RhythmGml&layout=donut&theme=tokyonight&hide_border=true" width="380" align="left"/>
   </picture>
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="steven.png" />
