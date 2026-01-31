@@ -5,7 +5,8 @@ Curso Ciência da Computação e sou membro da LAWD (Liga Acadêmica de Desenvol
 Tenho curiosidade sobre desenvolvimento web e desenvolvimento de jogos.
 
 - 🎓 Graduando em Ciência da Computação | **UFS**
-- 🏬 Membro da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
+- 🏬 Membro de ensino da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
+- 🏬 Assessor de Projetos da Empresa Júnior SofTeam | [**SofTeam**](https://github.com/softeam-org)
 
 <p align="center">
   <picture>
